@@ -40,6 +40,22 @@ const projects = [
     stack: ["Vue.js", "TypeScript", "Python", "PostgreSQL"],
   },
   {
+    title: "UAS Air Traffic Management",
+    type: "Backend / Cloud System",
+    summary:
+      "Contributed to the design and backend development of an Unmanned Aerial System for air traffic management in Japan.",
+    impact:
+      "Implemented core business logic, integrated cloud-based services, and coordinated with Japanese engineers and stakeholders across basic and detailed design work.",
+    stack: [
+      "Java",
+      "Spring Boot",
+      "CockroachDB",
+      "AWS EC2",
+      "Docker",
+      "Gradle",
+    ],
+  },
+  {
     title: "Selenium Automation Tester",
     type: "Automation",
     summary:
@@ -164,7 +180,7 @@ const timeline = [
 
 const stats = [
   { value: "5+", label: "Years software work" },
-  { value: "10", label: "Featured projects" },
+  { value: "11", label: "Featured projects" },
   { value: "2", label: "Working languages" },
 ];
 
