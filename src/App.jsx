@@ -11,7 +11,7 @@ import {
 } from "lucide-react";
 
 const profile = {
-  name: "Guillermo V. C. Sango",
+  name: "Guillermo V C. Sango",
   role: "Software Developer / Bridge Engineer",
   tagline:
     "I develop web, enterprise, automation, and business systems across C#, Java, Python, JavaScript, TypeScript, React, Angular, .NET, and cloud-backed stacks.",
@@ -70,6 +70,21 @@ const projects = [
       "Mockito",
       "Docker",
       "Gradle",
+    ],
+  },
+  {
+    title: "Odoo 18 Functional Certification",
+    type: "ERP / Functional Certification",
+    summary:
+      "Earned the Odoo 18 Functional Certification from Odoo Inc. for ERP functional knowledge and business workflow understanding.",
+    impact:
+      "Demonstrates capability in Odoo functional analysis, ERP configuration concepts, business process mapping, and technical documentation.",
+    stack: [
+      "Odoo 18",
+      "ERP",
+      "Functional Analysis",
+      "Business Process",
+      "Documentation",
     ],
   },
   {
@@ -197,7 +212,7 @@ const timeline = [
 
 const stats = [
   { value: "5+", label: "Years software work" },
-  { value: "12", label: "Featured projects" },
+  { value: "13", label: "Featured projects" },
   { value: "2", label: "Working languages" },
 ];
 
@@ -253,7 +268,7 @@ function App() {
               <div className="profile-portrait" aria-label="Profile photo">
                 <img
                   src={assetPath("profile.png")}
-                  alt="Guillermo V. C. Sango"
+                  alt="Guillermo V C. Sango"
                 />
               </div>
             </div>
