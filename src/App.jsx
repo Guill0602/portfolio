@@ -364,7 +364,7 @@ function App() {
                 Experience
               </div>
               <h2 id="experience-title">
-                Work history across Japan-facing software teams.
+                Work history across international and Japan-facing software teams.
               </h2>
             </div>
           </div>
