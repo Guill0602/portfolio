@@ -56,6 +56,23 @@ const projects = [
     ],
   },
   {
+    title: "AWAG Backend Development",
+    type: "Backend / API Development",
+    summary:
+      "Developed and maintained backend services and REST APIs for the AWAG system in Japan using Java and Spring Boot.",
+    impact:
+      "Implemented core business logic, database integration, API endpoints, unit tests, integration tests, code reviews, and troubleshooting across Agile and documentation workflows.",
+    stack: [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "JUnit",
+      "Mockito",
+      "Docker",
+      "Gradle",
+    ],
+  },
+  {
     title: "Selenium Automation Tester",
     type: "Automation",
     summary:
@@ -180,7 +197,7 @@ const timeline = [
 
 const stats = [
   { value: "5+", label: "Years software work" },
-  { value: "11", label: "Featured projects" },
+  { value: "12", label: "Featured projects" },
   { value: "2", label: "Working languages" },
 ];
 
