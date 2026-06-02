@@ -78,9 +78,9 @@ const projects = [
     summary:
       "Developed and customized Odoo modules and business workflows to support enterprise business operations.",
     impact:
-      "Worked on custom models, views, business logic, API integrations, CRM, Sales, Inventory, Project Management, HR, workflow automation, testing, deployment, user support, and Odoo 18 functional certification.",
+      "Worked on Odoo 18 and 19 custom models, views, business logic, API integrations, CRM, Sales, Inventory, Project Management, HR, workflow automation, testing, deployment, user support, and Odoo 18 functional certification.",
     stack: [
-      "Odoo 18",
+      "Odoo 18 & 19",
       "Python",
       "PostgreSQL",
       "XML",
@@ -163,7 +163,7 @@ const projects = [
 const strengths = [
   "Bridge engineering with Japanese stakeholders",
   "ERP & business systems",
-  "Odoo 18 and ERP implementation",
+  "Odoo 18 and 19 ERP implementation",
   "Business process analysis",
   "Workflow automation",
   "Functional consulting",
