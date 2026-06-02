@@ -73,18 +73,20 @@ const projects = [
     ],
   },
   {
-    title: "Odoo 18 Functional Certification",
-    type: "ERP / Functional Certification",
+    title: "Odoo ERP Development & Customization",
+    type: "Full Stack / ERP Development",
     summary:
-      "Earned the Odoo 18 Functional Certification from Odoo Inc. for ERP functional knowledge and business workflow understanding.",
+      "Developed and customized Odoo modules and business workflows to support enterprise business operations.",
     impact:
-      "Demonstrates capability in Odoo functional analysis, ERP configuration concepts, business process mapping, and technical documentation.",
+      "Worked on custom models, views, business logic, API integrations, CRM, Sales, Inventory, Project Management, HR, workflow automation, testing, deployment, user support, and Odoo 18 functional certification.",
     stack: [
       "Odoo 18",
-      "ERP",
-      "Functional Analysis",
-      "Business Process",
-      "Documentation",
+      "Python",
+      "PostgreSQL",
+      "XML",
+      "JavaScript",
+      "REST API",
+      "Docker",
     ],
   },
   {
@@ -160,6 +162,12 @@ const projects = [
 
 const strengths = [
   "Bridge engineering with Japanese stakeholders",
+  "ERP & business systems",
+  "Odoo 18 and ERP implementation",
+  "Business process analysis",
+  "Workflow automation",
+  "Functional consulting",
+  "System configuration",
   "React, Angular, Vue.js, Electron.js",
   "C#, Java, Python, JavaScript, TypeScript",
   ".NET, ASP.NET Core, FastAPI, Express.js",
